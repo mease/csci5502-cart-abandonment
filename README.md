@@ -1,2 +1,1 @@
-# csci5502-cart-abandonment
-Shopping Cart Abandonment Prediction
+# CSCI 5502 - Shopping Cart Abandonment Prediction
